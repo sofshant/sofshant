@@ -7,7 +7,7 @@
  |___/\___/|_| |___/_| |_|\__,_|_| |_|\__|
 
 
-<name>sofshant</name></code>
+<name>sofshant</name>
 
 <what>Front-End Web Developer</what>
 
