@@ -9,7 +9,7 @@
 
 <name>sofshant</name>
 
-<what>Front-End Web Developer</what>
+<what>Fullstack Web Developer</what>
 
 <where>Canada</where>
 
